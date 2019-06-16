@@ -1,0 +1,347 @@
+[
+    [
+        "C:\\SFDX\\dx-tests\\testCommands\\force-app",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\dx-tests\\testCommands\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558868425921,
+            "changeTime": 1558868425921,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558868425921,
+            "changeTime": 1558868425921,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558872638675,
+            "changeTime": 1558872638675,
+            "contentHash": "eac33e022662b4e6cacb4b2120f66cb4a3242bfd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558868425921,
+            "changeTime": 1558868425921,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1560675338998,
+            "changeTime": 1560675338998,
+            "contentHash": "f524f2c3b9124a75819e485bfe38c9cf873338a8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\classes\\dummyClass.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\classes\\dummyClass.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 220,
+            "modifiedTime": 1560680695681,
+            "changeTime": 1560680695681,
+            "contentHash": "4ffd8dd6572c2b758b199cf8b94728f570c56839",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\classes\\dummyClass.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\classes\\dummyClass.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 188,
+            "modifiedTime": 1558871926482,
+            "changeTime": 1558871926482,
+            "contentHash": "8532caa1e782045ee03814b4923bc1ab8947d8dd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558872638665,
+            "changeTime": 1558872638665,
+            "contentHash": "a4e2205ffcb66616b3bac4ed619d4e8f42baeaeb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\layouts\\Player__c-Player Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\layouts\\Player__c-Player Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1947,
+            "modifiedTime": 1558872638661,
+            "changeTime": 1558872638661,
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\layouts\\Team__c-Team Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\layouts\\Team__c-Team Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1947,
+            "modifiedTime": 1558872638665,
+            "changeTime": 1558872638665,
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558872638653,
+            "changeTime": 1558872638653,
+            "contentHash": "4eaa7b8d98af6a5b15c7c133798d24383aec3944",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\objects\\Player__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\objects\\Player__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558872638641,
+            "changeTime": 1558872638641,
+            "contentHash": "ff32303675cf2ea4bf51c6c1a1bc559555dd9506",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\objects\\Player__c\\Player__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\objects\\Player__c\\Player__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2092,
+            "modifiedTime": 1558872638641,
+            "changeTime": 1558872638641,
+            "contentHash": "55c7d6bce92b851655eb8549be7efe11170bf136",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\objects\\Team__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\objects\\Team__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558872638653,
+            "changeTime": 1558872638653,
+            "contentHash": "495a056254982048d936558aabe036d304d3beb2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\objects\\Team__c\\Team__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\objects\\Team__c\\Team__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2087,
+            "modifiedTime": 1558872638653,
+            "changeTime": 1558872638653,
+            "contentHash": "d9b39e72c268d06b465ee1e22ce8bf9c51f4387a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558872638718,
+            "changeTime": 1558872638718,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19554,
+            "modifiedTime": 1558872638710,
+            "changeTime": 1558872638710,
+            "contentHash": "898dc6ae6698c2b0c955e66498aba39c965fc8a0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4750,
+            "modifiedTime": 1558872638677,
+            "changeTime": 1558872638677,
+            "contentHash": "0769047b004a107b4e4842a81d3c3b34970adb9b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4750,
+            "modifiedTime": 1558872638719,
+            "changeTime": 1558872638719,
+            "contentHash": "0769047b004a107b4e4842a81d3c3b34970adb9b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5088,
+            "modifiedTime": 1558872638688,
+            "changeTime": 1558872638688,
+            "contentHash": "081bd7dc9f5d0a0b54b9ca9e93406af301dff488",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\settings",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\settings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558872638624,
+            "changeTime": 1558872638624,
+            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\dx-tests\\testCommands\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6377,
+            "modifiedTime": 1560680756030,
+            "changeTime": 1560680756030,
+            "contentHash": "774b039c64d024a251ff065c0f1e8759f71c0790",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDX\\dx-tests\\testCommands",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\dx-tests\\testCommands",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1560680232476,
+            "changeTime": 1560680232476,
+            "contentHash": "2ba6d055cfd12dffb71f7c355597fd6db218a64b",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

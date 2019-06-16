@@ -1,0 +1,9 @@
+{
+  "name": "test-class-creator",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run org:create && sfdx force:source:push -f",
+    "stop": "sfdx force:org:delete --noprompt -u custom-commands",
+    "org:create": "sfdx force:org:create -f config/project-scratch-def.json -s -a custom-commands"
+  }
+}
